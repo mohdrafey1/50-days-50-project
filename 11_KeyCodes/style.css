@@ -41,3 +41,14 @@ body {
     width: 100%;
     color: #555;
 }
+
+.circle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #555;
+    position: absolute;
+    z-index: -1;
+    position: absolute;
+    transition: transform 0.2s ease-in;
+}
