@@ -41,5 +41,5 @@ document.addEventListener('mousemove', (e) => {
     //     e.clientY + offsetY
     // }px)`;
 
-    console.log(`${e.clientX + offsetX}px, ${e.clientY + offsetY}px)`);
+    // console.log(`${e.clientX + offsetX}px, ${e.clientY + offsetY}px)`);
 });
